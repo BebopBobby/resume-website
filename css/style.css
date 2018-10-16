@@ -38,23 +38,22 @@ text-indent: 1%;
 #footer{
 text-align: center;
 padding: 20px;
-background-color: purple;
+background-color: silver;
 }
 body{
-    border: purple;
+    border: silver;
     border-style: solid;
     border-width: 10px;
     align-content: center;
     margin: 10%;
     background-color: black;
     color:white;
-    box-shadow: 10px 10px 8px blueviolet;
-    
+    box-shadow: 10px 10px 8px gray;
 }
 #h3id{
     margin: 0;
     padding: 0;
 }
 #top{
-color: white;
+
 }
